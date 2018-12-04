@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  Magic8ball
+
+  Created by Donlaya on 4/12/2561 BE.
+  Copyright © 2561 Donlaya. All rights reserved.
+*/
+
+//Answer
+"yes" = "Yes :)";
+"no" = "Sorry, No :(";
+"ask agin" = "Ask agin. Please!";
+"definitely" = "Definitely";
+"may be i am not sure" = "May be. I'm not sure";
+"answer" = "Answer";
+
+//Answer
+"yes" = "ใช่เลย :)";
+"no" = "ยังไม่ใช่ :(";
+"ask agin" = "ลองถามอีกครั้ง";
+"definitely" = "ใช่แน่นอน ชัวร์เลย";
+"may be i am not sure" = "ก็อาจจะ ฉันไม่แน่ใจจริงๆ";
+"answer" = "คำตอบ";
